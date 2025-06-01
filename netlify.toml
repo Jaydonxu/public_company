@@ -1,0 +1,7 @@
+[build]
+  command = "hugo --minify"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.147.7"  # 替换为你使用的 Hugo 版本
+  HUGO_ENABLEGITINFO = "true"
