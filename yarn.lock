@@ -99,10 +99,10 @@
   resolved "https://registry.npmmirror.com/@vue/shared/-/shared-3.1.5.tgz#74ee3aad995d0a3996a6bb9533d4d280514ede03"
   integrity sha512-oJ4F3TnvpXaQwZJNF3ZK+kLPHKarDmJjJ6jyzVNDKH9md1dptjC7lWR//jrGuLdek/U6iltWxqAnYOu8gCiOvA==
 
-alpinejs@^3.14.3:
-  version "3.14.9"
-  resolved "https://registry.npmmirror.com/alpinejs/-/alpinejs-3.14.9.tgz#381a050152acb221b2209d9398935d5cd4c18afc"
-  integrity sha512-gqSOhTEyryU9FhviNqiHBHzgjkvtukq9tevew29fTj+ofZtfsYriw4zPirHHOAy9bw8QoL3WGhyk7QqCh5AYlw==
+alpinejs@^3.15.1:
+  version "3.15.1"
+  resolved "https://registry.yarnpkg.com/alpinejs/-/alpinejs-3.15.1.tgz#d188dd27a68e30a32a5fa851c54c807456b11cd8"
+  integrity sha512-HLO1TtiE92VajFHtLLPK8BWaK1YepV/uj31UrfoGnQ00lyFOJZ+oVY3F0DghPAwvg8sLU79pmjGQSytERa2gEg==
   dependencies:
     "@vue/reactivity" "~3.1.1"
 
